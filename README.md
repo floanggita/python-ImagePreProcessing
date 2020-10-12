@@ -4,7 +4,13 @@ Open CV Image Pre Processing Collection
 - Resize
 - Threshold 
 - Canny 
-- Contour And Crop 
+- Contour
+- Image Transform 
+- Blurring
+- Image Rotation
+- Read/Write 
+- Draw 
+- SetText
 
 # Prepare 
 - Jupyter Notebook 
